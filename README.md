@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working primarily on Java J2EE with AWS, Python, SQL<br>👯 I’m looking to collaborate on Backend Engineering Projects<br>🤝 I’m looking for help with Java, Python, AWS, SQL, etc<br>🌱 I’m currently learning Python<br>💬 Ask me about Java, Spring related technologies<br>⚡ Fun fact : I love singing, gaming, photography
+🔭 I’m currently working primarily on Java J2EE with AWS, Python, SQL<br>👯 I’m looking to collaborate on Backend Engineering Projects<br>🤝 I’m looking for help with Java, Python, AWS, SQL, etc<br>🌱 I’m currently learning Python,AI/ML<br>💬 Ask me about Java, Spring related technologies<br>⚡ Fun fact : I love singing, gaming, photography
 
 
 ## 🌐 Socials:
